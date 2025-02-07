@@ -1,5 +1,5 @@
 package interviewpractice.typecast;
 
-public class A {
+public class A  {
 
 }
