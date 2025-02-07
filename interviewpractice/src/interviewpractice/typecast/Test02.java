@@ -18,6 +18,12 @@ public class Test02 {
 		C c = new C();
 		m2(c);
 		
+		String s1 = "10";
+		String s2 = "20";
+		
+		System.out.println(s1+s2);
+		
+		
 		
 	}
 	
