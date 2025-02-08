@@ -4,7 +4,7 @@ public class Test02 {
 
 	public static void main(String[] args) {
 		
-		String projectName = "CoreJava-Project";
+		String projectName = "Core-Java-Project";
 		
 		Object obj1 = "Ram";
 		m1(obj1);
