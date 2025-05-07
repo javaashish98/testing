@@ -36,7 +36,7 @@ public class Q3 {
 		
 		
 		//2. ofNullabe(T t)
-		Optional<String> op2 = Optional.ofNullable(null); //Wrape  vaaue that maay be null
+		Optional<String> op2 = Optional.ofNullable(null); //Wrape  value that may be null
 		
 		//3. isPresent  return true if value is present
 		
