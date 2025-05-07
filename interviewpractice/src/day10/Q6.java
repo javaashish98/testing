@@ -30,7 +30,9 @@ public class Q6 {
 		Function<String, String> fun3 = String::toUpperCase;
 		
 		list.stream().map(fun1).forEach(System.out::println);
-		
+	
+		list.stream().map(String::toUpperCase).forEach(System.out::println);
+
 		
 		
 		
